@@ -1,0 +1,12 @@
+.nav-container{
+    position: sticky;
+    top: 0;
+    /* padding: 5px;   */
+}
+nav a{
+     margin-right: 20px;
+     padding-right: 20px;
+}
+nav img{
+     height: 20px;
+}
